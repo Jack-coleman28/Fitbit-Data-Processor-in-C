@@ -2,7 +2,7 @@
 
 /*********************************************************************************
 ** Company: WSU - CPTS 122
-** Programmer: Jack Coleman
+** Programmer: Jack 
 **
 ** Create Date: 01//12/2019
 ** Date Last Modified: 01/23/2019
